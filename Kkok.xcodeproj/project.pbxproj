@@ -12,37 +12,37 @@
 			containerPortal = 5660778B30A0B0F3005FA100 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5660779230A0B0F3005FA100;
-			remoteInfo = Rivon;
+			remoteInfo = Kkok;
 		};
 		566077AB30A0B0F4005FA100 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 5660778B30A0B0F3005FA100 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5660779230A0B0F3005FA100;
-			remoteInfo = Rivon;
+			remoteInfo = Kkok;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5660779330A0B0F3005FA100 /* Rivon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rivon.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		566077A030A0B0F4005FA100 /* RivonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RivonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		566077AA30A0B0F4005FA100 /* RivonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RivonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5660779330A0B0F3005FA100 /* Kkok.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kkok.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		566077A030A0B0F4005FA100 /* KkokTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KkokTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		566077AA30A0B0F4005FA100 /* KkokUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KkokUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5660779530A0B0F3005FA100 /* Rivon */ = {
+		5660779530A0B0F3005FA100 /* Kkok */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Rivon;
+			path = Kkok;
 			sourceTree = "<group>";
 		};
-		566077A330A0B0F4005FA100 /* RivonTests */ = {
+		566077A330A0B0F4005FA100 /* KkokTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = RivonTests;
+			path = KkokTests;
 			sourceTree = "<group>";
 		};
-		566077AD30A0B0F4005FA100 /* RivonUITests */ = {
+		566077AD30A0B0F4005FA100 /* KkokUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = RivonUITests;
+			path = KkokUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -69,9 +69,9 @@
 		5660778A30A0B0F3005FA100 = {
 			isa = PBXGroup;
 			children = (
-				5660779530A0B0F3005FA100 /* Rivon */,
-				566077A330A0B0F4005FA100 /* RivonTests */,
-				566077AD30A0B0F4005FA100 /* RivonUITests */,
+				5660779530A0B0F3005FA100 /* Kkok */,
+				566077A330A0B0F4005FA100 /* KkokTests */,
+				566077AD30A0B0F4005FA100 /* KkokUITests */,
 				5660779430A0B0F3005FA100 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -79,9 +79,9 @@
 		5660779430A0B0F3005FA100 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5660779330A0B0F3005FA100 /* Rivon.app */,
-				566077A030A0B0F4005FA100 /* RivonTests.xctest */,
-				566077AA30A0B0F4005FA100 /* RivonUITests.xctest */,
+				5660779330A0B0F3005FA100 /* Kkok.app */,
+				566077A030A0B0F4005FA100 /* KkokTests.xctest */,
+				566077AA30A0B0F4005FA100 /* KkokUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -89,9 +89,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5660779230A0B0F3005FA100 /* Rivon */ = {
+		5660779230A0B0F3005FA100 /* Kkok */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 566077B230A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "Rivon" */;
+			buildConfigurationList = 566077B230A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "Kkok" */;
 			buildPhases = (
 				5660778F30A0B0F3005FA100 /* Sources */,
 				5660779030A0B0F3005FA100 /* Frameworks */,
@@ -100,16 +100,16 @@
 			buildRules = (
 			);
 			fileSystemSynchronizedGroups = (
-				5660779530A0B0F3005FA100 /* Rivon */,
+				5660779530A0B0F3005FA100 /* Kkok */,
 			);
-			name = Rivon;
-			productName = Rivon;
-			productReference = 5660779330A0B0F3005FA100 /* Rivon.app */;
+			name = Kkok;
+			productName = Kkok;
+			productReference = 5660779330A0B0F3005FA100 /* Kkok.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5660779F30A0B0F4005FA100 /* RivonTests */ = {
+		5660779F30A0B0F4005FA100 /* KkokTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 566077B530A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "RivonTests" */;
+			buildConfigurationList = 566077B530A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "KkokTests" */;
 			buildPhases = (
 				5660779C30A0B0F4005FA100 /* Sources */,
 				5660779D30A0B0F4005FA100 /* Frameworks */,
@@ -121,16 +121,16 @@
 				566077A230A0B0F4005FA100 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				566077A330A0B0F4005FA100 /* RivonTests */,
+				566077A330A0B0F4005FA100 /* KkokTests */,
 			);
-			name = RivonTests;
-			productName = RivonTests;
-			productReference = 566077A030A0B0F4005FA100 /* RivonTests.xctest */;
+			name = KkokTests;
+			productName = KkokTests;
+			productReference = 566077A030A0B0F4005FA100 /* KkokTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		566077A930A0B0F4005FA100 /* RivonUITests */ = {
+		566077A930A0B0F4005FA100 /* KkokUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 566077B830A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "RivonUITests" */;
+			buildConfigurationList = 566077B830A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "KkokUITests" */;
 			buildPhases = (
 				566077A630A0B0F4005FA100 /* Sources */,
 				566077A730A0B0F4005FA100 /* Frameworks */,
@@ -142,11 +142,11 @@
 				566077AC30A0B0F4005FA100 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				566077AD30A0B0F4005FA100 /* RivonUITests */,
+				566077AD30A0B0F4005FA100 /* KkokUITests */,
 			);
-			name = RivonUITests;
-			productName = RivonUITests;
-			productReference = 566077AA30A0B0F4005FA100 /* RivonUITests.xctest */;
+			name = KkokUITests;
+			productName = KkokUITests;
+			productReference = 566077AA30A0B0F4005FA100 /* KkokUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -172,7 +172,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5660778E30A0B0F3005FA100 /* Build configuration list for PBXProject "Rivon" */;
+			buildConfigurationList = 5660778E30A0B0F3005FA100 /* Build configuration list for PBXProject "Kkok" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -186,9 +186,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5660779230A0B0F3005FA100 /* Rivon */,
-				5660779F30A0B0F4005FA100 /* RivonTests */,
-				566077A930A0B0F4005FA100 /* RivonUITests */,
+				5660779230A0B0F3005FA100 /* Kkok */,
+				5660779F30A0B0F4005FA100 /* KkokTests */,
+				566077A930A0B0F4005FA100 /* KkokUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -232,18 +232,18 @@
 /* Begin PBXTargetDependency section */
 		566077A230A0B0F4005FA100 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5660779230A0B0F3005FA100 /* Rivon */;
+			target = 5660779230A0B0F3005FA100 /* Kkok */;
 			targetProxy = 566077A130A0B0F4005FA100 /* PBXContainerItemProxy */;
 		};
 		566077AC30A0B0F4005FA100 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5660779230A0B0F3005FA100 /* Rivon */;
+			target = 5660779230A0B0F3005FA100 /* Kkok */;
 			targetProxy = 566077AB30A0B0F4005FA100 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		566077B030A0B0F4005FA100 /* Debug configuration for PBXProject "Rivon" */ = {
+		566077B030A0B0F4005FA100 /* Debug configuration for PBXProject "Kkok" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -307,7 +307,7 @@
 			};
 			name = Debug;
 		};
-		566077B130A0B0F4005FA100 /* Release configuration for PBXProject "Rivon" */ = {
+		566077B130A0B0F4005FA100 /* Release configuration for PBXProject "Kkok" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -364,7 +364,7 @@
 			};
 			name = Release;
 		};
-		566077B330A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "Rivon" */ = {
+		566077B330A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "Kkok" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -374,6 +374,7 @@
 				DEVELOPMENT_TEAM = 3QL89A62XV;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "꼭";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -384,7 +385,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.Rivon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.Kkok;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -396,7 +397,7 @@
 			};
 			name = Debug;
 		};
-		566077B430A0B0F4005FA100 /* Release configuration for PBXNativeTarget "Rivon" */ = {
+		566077B430A0B0F4005FA100 /* Release configuration for PBXNativeTarget "Kkok" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -406,6 +407,7 @@
 				DEVELOPMENT_TEAM = 3QL89A62XV;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "꼭";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -416,7 +418,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.Rivon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.Kkok;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -428,7 +430,7 @@
 			};
 			name = Release;
 		};
-		566077B630A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "RivonTests" */ = {
+		566077B630A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "KkokTests" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -438,7 +440,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.RivonTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.KkokTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -446,11 +448,11 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Rivon.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Rivon";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Kkok.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Kkok";
 			};
 			name = Debug;
 		};
-		566077B730A0B0F4005FA100 /* Release configuration for PBXNativeTarget "RivonTests" */ = {
+		566077B730A0B0F4005FA100 /* Release configuration for PBXNativeTarget "KkokTests" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -460,7 +462,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.RivonTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.KkokTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -468,11 +470,11 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Rivon.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Rivon";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Kkok.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Kkok";
 			};
 			name = Release;
 		};
-		566077B930A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "RivonUITests" */ = {
+		566077B930A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "KkokUITests" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -480,7 +482,7 @@
 				DEVELOPMENT_TEAM = 3QL89A62XV;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.RivonUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.KkokUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -488,11 +490,11 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Rivon;
+				TEST_TARGET_NAME = Kkok;
 			};
 			name = Debug;
 		};
-		566077BA30A0B0F4005FA100 /* Release configuration for PBXNativeTarget "RivonUITests" */ = {
+		566077BA30A0B0F4005FA100 /* Release configuration for PBXNativeTarget "KkokUITests" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -500,7 +502,7 @@
 				DEVELOPMENT_TEAM = 3QL89A62XV;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.RivonUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seungmin.KkokUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -508,42 +510,42 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Rivon;
+				TEST_TARGET_NAME = Kkok;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5660778E30A0B0F3005FA100 /* Build configuration list for PBXProject "Rivon" */ = {
+		5660778E30A0B0F3005FA100 /* Build configuration list for PBXProject "Kkok" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				566077B030A0B0F4005FA100 /* Debug configuration for PBXProject "Rivon" */,
-				566077B130A0B0F4005FA100 /* Release configuration for PBXProject "Rivon" */,
+				566077B030A0B0F4005FA100 /* Debug configuration for PBXProject "Kkok" */,
+				566077B130A0B0F4005FA100 /* Release configuration for PBXProject "Kkok" */,
 			);
 			defaultConfigurationName = Release;
 		};
-		566077B230A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "Rivon" */ = {
+		566077B230A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "Kkok" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				566077B330A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "Rivon" */,
-				566077B430A0B0F4005FA100 /* Release configuration for PBXNativeTarget "Rivon" */,
+				566077B330A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "Kkok" */,
+				566077B430A0B0F4005FA100 /* Release configuration for PBXNativeTarget "Kkok" */,
 			);
 			defaultConfigurationName = Release;
 		};
-		566077B530A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "RivonTests" */ = {
+		566077B530A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "KkokTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				566077B630A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "RivonTests" */,
-				566077B730A0B0F4005FA100 /* Release configuration for PBXNativeTarget "RivonTests" */,
+				566077B630A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "KkokTests" */,
+				566077B730A0B0F4005FA100 /* Release configuration for PBXNativeTarget "KkokTests" */,
 			);
 			defaultConfigurationName = Release;
 		};
-		566077B830A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "RivonUITests" */ = {
+		566077B830A0B0F4005FA100 /* Build configuration list for PBXNativeTarget "KkokUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				566077B930A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "RivonUITests" */,
-				566077BA30A0B0F4005FA100 /* Release configuration for PBXNativeTarget "RivonUITests" */,
+				566077B930A0B0F4005FA100 /* Debug configuration for PBXNativeTarget "KkokUITests" */,
+				566077BA30A0B0F4005FA100 /* Release configuration for PBXNativeTarget "KkokUITests" */,
 			);
 			defaultConfigurationName = Release;
 		};
