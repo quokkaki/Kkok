@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Rivon
+//  Kkok
 //
 //  Created by 승민 on 11/8/26.
 //

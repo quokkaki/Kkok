@@ -1,14 +1,14 @@
 //
-//  RivonTests.swift
-//  RivonTests
+//  KkokTests.swift
+//  KkokTests
 //
 //  Created by 승민 on 11/8/26.
 //
 
 import Testing
-@testable import Rivon
+@testable import Kkok
 
-struct RivonTests {
+struct KkokTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

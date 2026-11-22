@@ -1,6 +1,6 @@
 //
 //  Todo.swift
-//  Rivon
+//  Kkok
 //
 //  Created by 승민 on 11/14/26.
 //
